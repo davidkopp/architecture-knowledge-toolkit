@@ -190,13 +190,3 @@ not skills).
 - Prefer explicit AsciiDoc anchors for generated links; do not derive xrefs from
   artifact-id-prefixed file names.
 - Run `./build.sh all` before declaring the work done.
-
-## Open questions
-
-None. All six decisions are locked.
-
-## Issue comment draft (see response / post after implementation starts)
-
-A brief summary comment is drafted in the session that produced this handoff; post it
-to #100 when work starts so the owner and the workshop participants see the chosen
-direction.
